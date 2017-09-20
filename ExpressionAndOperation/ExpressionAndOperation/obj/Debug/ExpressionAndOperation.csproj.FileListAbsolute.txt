@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ExpressionAndOperation\ExpressionAndOperation\bin\Debug\ExpressionAndOperation.exe.config
+C:\Users\user\source\repos\ExpressionAndOperation\ExpressionAndOperation\bin\Debug\ExpressionAndOperation.exe
+C:\Users\user\source\repos\ExpressionAndOperation\ExpressionAndOperation\bin\Debug\ExpressionAndOperation.pdb
+C:\Users\user\source\repos\ExpressionAndOperation\ExpressionAndOperation\obj\Debug\ExpressionAndOperation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExpressionAndOperation\ExpressionAndOperation\obj\Debug\ExpressionAndOperation.exe
+C:\Users\user\source\repos\ExpressionAndOperation\ExpressionAndOperation\obj\Debug\ExpressionAndOperation.pdb
