@@ -1,0 +1,7 @@
+D:\Projects\Study\ConstrolFlowSwithch\bin\Debug\ConstrolFlowSwithch.exe.config
+D:\Projects\Study\ConstrolFlowSwithch\bin\Debug\ConstrolFlowSwithch.exe
+D:\Projects\Study\ConstrolFlowSwithch\bin\Debug\ConstrolFlowSwithch.pdb
+D:\Projects\Study\ConstrolFlowSwithch\obj\Debug\ConstrolFlowSwithch.csprojResolveAssemblyReference.cache
+D:\Projects\Study\ConstrolFlowSwithch\obj\Debug\ConstrolFlowSwithch.csproj.CoreCompileInputs.cache
+D:\Projects\Study\ConstrolFlowSwithch\obj\Debug\ConstrolFlowSwithch.exe
+D:\Projects\Study\ConstrolFlowSwithch\obj\Debug\ConstrolFlowSwithch.pdb
