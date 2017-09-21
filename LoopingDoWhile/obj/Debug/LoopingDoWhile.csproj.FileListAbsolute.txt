@@ -1,0 +1,7 @@
+D:\Projects\Study\LoopingDoWhile\bin\Debug\LoopingDoWhile.exe.config
+D:\Projects\Study\LoopingDoWhile\bin\Debug\LoopingDoWhile.exe
+D:\Projects\Study\LoopingDoWhile\bin\Debug\LoopingDoWhile.pdb
+D:\Projects\Study\LoopingDoWhile\obj\Debug\LoopingDoWhile.csprojResolveAssemblyReference.cache
+D:\Projects\Study\LoopingDoWhile\obj\Debug\LoopingDoWhile.csproj.CoreCompileInputs.cache
+D:\Projects\Study\LoopingDoWhile\obj\Debug\LoopingDoWhile.exe
+D:\Projects\Study\LoopingDoWhile\obj\Debug\LoopingDoWhile.pdb
